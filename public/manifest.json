@@ -1,0 +1,23 @@
+{
+    "name": "School Digital Library",
+    "short_name": "MyLibrary",
+    "start_url": "/",
+    "background_color": "#1e3a8a",
+    "description": "School Digital Library - Ignite the Joy of Reading",
+    "display": "standalone",
+    "theme_color": "#1e3a8a",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
